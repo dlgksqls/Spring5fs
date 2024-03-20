@@ -1,4 +1,4 @@
 package spring;
 
-public class WrongIdPaawordException {
+public class WrongIdPaawordException extends RuntimeException{
 }
