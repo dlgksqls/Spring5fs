@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8cf2803-9216-4674-8181-6c0ed07204d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/assembler/Assembler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/config/AppCtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/main/MainForAssembler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/main/MainForSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/DuplicateMemberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/DuplicateMemberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/MemberNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/MemberNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/WrongIdPaawordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap03/src/main/java/spring/WrongIdPaawordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/horai/Desktop/Spring5fs",
+    "last_opened_file_path": "C:/Users/user/Desktop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,26 +82,10 @@
       <recent name="C:\Users\horai\Desktop\Spring5fs\sp5-chap03\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Spring5fs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Spring5fs" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-af3fa2b8" />
       </set>
     </attachedChunks>
   </component>
@@ -142,6 +107,7 @@
       <workItem from="1710923574861" duration="62000" />
       <workItem from="1710923658305" duration="17000" />
       <workItem from="1710923750304" duration="236000" />
+      <workItem from="1710982664155" duration="109000" />
     </task>
     <servers />
   </component>

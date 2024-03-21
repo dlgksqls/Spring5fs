@@ -6,6 +6,9 @@ import spring.ChangePasswordService;
 import spring.Member;
 import spring.MemberDao;
 import spring.MemberRegisterService;
+import spring.*;
+
+import javax.print.attribute.standard.PrinterInfo;
 
 @Configuration // 스프링 설정 클래스
 public class AppCtx {
@@ -24,5 +27,31 @@ public class AppCtx {
         ChangePasswordService pwdSvc = new ChangePasswordService();
         pwdSvc.setMemberDao(memberDao());
         return pwdSvc;
+    }
+
+    @Bean
+    public MemberPrinter memberPrinter(){
+        return new MemberPrinter();
+    }
+
+    @Bean
+    public MemberListPrinter listPrinter(){
+        return new MemberListPrinter(memberDao(), memberPrinter());
+    }
+
+    @Bean
+    public MemberinfoPrinter infoPrinter(){
+        MemberinfoPrinter infoPrinter = new MemberinfoPrinter();
+        infoPrinter.setMemberDao(memberDao());
+        infoPrinter.setPrinter(memberPrinter());
+        return infoPrinter;
+    }
+
+    @Bean
+    public VersionPrinter versionPrinter(){
+        VersionPrinter versionPrinter = new VersionPrinter();
+        versionPrinter.setMajorVersion(5);
+        versionPrinter.setMinorVersion(0);
+        return versionPrinter;
     }
 }
