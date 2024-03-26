@@ -1,0 +1,1 @@
+grant all privileges on spring5fs.* to 'spring5'@'localhost';
