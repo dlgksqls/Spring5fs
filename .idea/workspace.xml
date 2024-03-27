@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8cf2803-9216-4674-8181-6c0ed07204d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp5-chap06/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap06/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/dbquery/DbQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/main/MainForMemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap08/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/assembler/Assembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/config/AppConf1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/config/AppConf2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/config/AppConfImport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/config/AppCtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/main/MainForAssembler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/main/MainForSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/MemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/MemberinfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp5-chap08/src/main/java/spring/MemberinfoPrinter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +86,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Spring5fs/sp5-chap07/build.gradle",
+    "last_opened_file_path": "C:/Users/user/Desktop/Spring5fs/sp5-chap08/build.gradle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -181,6 +197,7 @@
       <workItem from="1711284781383" duration="30000" />
       <workItem from="1711284898117" duration="44000" />
       <workItem from="1711368229347" duration="14000" />
+      <workItem from="1711550268472" duration="18000" />
     </task>
     <servers />
   </component>
